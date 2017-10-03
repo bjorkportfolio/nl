@@ -9,7 +9,9 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 9,
-    "versionPublish": "4.3.2"
+    "versionPublish": "4.3.2",
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
