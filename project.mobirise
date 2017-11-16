@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -26,31 +26,38 @@
       },
       "components": [
         {
-          "_styles": {},
+          "_inherit": "header1",
           "_params": {
+            "showTitle": false,
             "showText": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://player.vimeo.com/video/243172021?autoplay=0&loop=0",
+              "rawUrl": "https://vimeo.com/243172021",
+              "width": 1280,
+              "height": 720
             },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://vimeo.com/243172021",
-              "autoplay": "on",
-              "loop": "on"
-            }
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "Cut down the development time with drag-and-drop website builder.",
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "video1",
-          "_anchor": "video1-1o"
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1p"
         },
         {
           "_styles": {
