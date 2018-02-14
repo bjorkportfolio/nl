@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -26,38 +26,31 @@
       },
       "components": [
         {
-          "_inherit": "header1",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "images/bg.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://player.vimeo.com/video/243172021?autoplay=0&loop=0",
-              "rawUrl": "https://player.vimeo.com/video/243172021?autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.1"
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://player.vimeo.com/video/243172021?autoplay=0&loop=0",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-1p"
+          "_name": "image1",
+          "_anchor": "image1-1r"
         },
         {
           "_styles": {
