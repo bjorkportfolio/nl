@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio Bjork ",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -27,7 +27,7 @@
       "components": [
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false,
             "bgColor": "#252525"
           },
@@ -522,14 +522,6 @@
       },
       "components": [
         {
-          "text": "<p>tekst uitleg&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-l"
-        },
-        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -583,10 +575,10 @@
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
             "autoplay": true,
-            "showBullets": false,
+            "showBullets": true,
             "slides": [
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-6.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -594,33 +586,32 @@
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-9.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 2",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-10.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-11.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -628,20 +619,84 @@
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/afb-12.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-13.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-14.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-15.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-16.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-17.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-18.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -650,7 +705,7 @@
             "Theme"
           ],
           "_name": "slider2",
-          "_anchor": "slider2-o"
+          "_anchor": "slider2-1s"
         }
       ]
     },
@@ -664,14 +719,6 @@
         "order": 2
       },
       "components": [
-        {
-          "text": "<p>tekst uitleg&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-p"
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -722,78 +769,31 @@
           "_anchor": "dropdown-menu-q"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
-            "showBullets": false,
-            "slides": [
-              {
-                "image": "images/slide1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
-              },
-              {
-                "image": "images/slide2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
-              },
-              {
-                "image": "images/slide1.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
-              }
-            ]
+            "showText": true,
+            "outside": false
           },
-          "articleLayout": true,
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/afb-5.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_anchor": "slider2-r"
+          "_name": "image2",
+          "_anchor": "image2-1t"
         }
       ]
     },
@@ -807,14 +807,6 @@
         "order": 3
       },
       "components": [
-        {
-          "text": "<p>tekst uitleg&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-s"
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -872,7 +864,7 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-19.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -884,29 +876,29 @@
                 "overlay": false
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-8.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 2",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-20.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-21.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -918,7 +910,139 @@
                 "overlay": false
               },
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-22.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-23.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-24.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-25.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-26.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-27.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-28.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-29.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-30.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-31.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-32.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-33.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -950,14 +1074,6 @@
         "order": 4
       },
       "components": [
-        {
-          "text": "<p>tekst uitleg&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-v"
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -1015,41 +1131,18 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "images/slide1.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/afb-3.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
-              },
-              {
-                "image": "images/slide2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
                 "title": "Slide 2",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide3.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-1.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1061,8 +1154,8 @@
                 "overlay": false
               },
               {
-                "image": "images/slide1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/afb-2.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1093,14 +1186,6 @@
         "order": 5
       },
       "components": [
-        {
-          "text": "<p>tekst uitleg&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-y"
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -1158,7 +1243,7 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-4.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1170,7 +1255,7 @@
                 "overlay": false
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-34.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -1181,7 +1266,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-35.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -1192,7 +1277,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-36.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1204,8 +1289,8 @@
                 "overlay": false
               },
               {
-                "image": "images/slide1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/afb-38.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
