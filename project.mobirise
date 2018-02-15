@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio Bjork ",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -130,7 +130,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/afb-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/afb-3.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -147,8 +147,8 @@
               "size": 0
             }
           },
-          "title": "Platenhoes",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Songs",
+          "text": "De opdracht hier was om een LP hoes voor een plaat uit een gegeven lijst te ontwerpen. Met als doelstelling een abstract gegeven als muziek visueel te kunnen vertalen/contextualiseren en tekst en beeld zo kunnen combineren dat het geheel meer wordt dan de som van afzonderlijke elementen. Alsook de tekst als een grafische element te zien en te behandelen.",
           "_tags": [
             "Theme"
           ],
@@ -165,7 +165,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Bekijk meer</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1g"
         },
@@ -215,8 +215,8 @@
               "size": 0
             }
           },
-          "title": "Handleiding",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Blijf rustig en lees de handlijding",
+          "text": "<p>Het ontwerp van een publicatie waarin een duidelijk afgeleide handeling of actie gevisualiseerd wordt. Er wordt door de grafische aanpak en opbouw op een associatieve manier tekst en/ of beeld toegevoegd om de handeling tot een betekenisniveau te brengen. We interpreteren en sturen de inhoud zelf, waardoor de publicatie een persoonlijk karakter krijgt en het puur informatieve overstijgt.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -233,7 +233,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Bekijk meer&nbsp;</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1h"
         },
@@ -283,8 +283,8 @@
               "size": 0
             }
           },
-          "title": "Poster Verzameling&nbsp;",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Verzamelen!&nbsp;",
+          "text": "<p>Hier moest iedereen van de groep 3 voorwerpen verzamelen en deze allemaal samenleggen, uit deze grote verzameling moeen 9 voorwerpen worden geselecteerd om deze nadien te vertalen naar een platte, zwart/wette grafische objecten. Nadien moet met deze objecten een collage gemaakt worden.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -301,7 +301,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Meer info&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Bekijk meer</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1i"
         },
@@ -369,7 +369,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Bekijk meer</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1j"
         },
@@ -420,7 +420,7 @@
             }
           },
           "title": "Paris Match&nbsp;",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "<p>Uitgaande van het devies “le poids des mots, le choc des photos’ ( Paris March). Geef ik mijn kijk op 1 van de meerdere aspecten van Parijs in een publicatie. Tijdens onze driedaagse studiereis legden we en beeldarchief aan met verschillende reeksen die thematisch bepaald waren. Het doel van deze opdracht was uit een grote hoeveelheid materiaal een invalshoek kunnen bepalen en een idee kunnen ontwikkelen voor een publicatie.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -437,7 +437,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Meer info&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Bekijk meer</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1k"
         },
@@ -487,8 +487,8 @@
               "size": 0
             }
           },
-          "title": "Grondwet",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Dura lex, Sed lex",
+          "text": "<p>De opdracht luidt hier, de tekst van de Belgische grondwet van 1831, met de wijzigingen van 7 september 1893, 15 november 1920, 7 februari, 24 augustus en 15 oktober 1921. Hierbij moet een losse bijlage gevoegd worden waarin 1 wetsartikel in de kijker gezet wordt en via de typografie ingespeeld wordt op mijn kijk van het artikel. De doelstelling hiervan is een grotere hoeveelheid tekst te kunnen verwerken, de inhoudelijke hiërarchie typografisch te kunnen weergeven, typografische regels toe te passen,…</p>",
           "_tags": [
             "Theme"
           ],
@@ -505,7 +505,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Bekijk meer</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1l"
         }
@@ -575,7 +575,7 @@
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
+            "showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/afb-6.jpg",
@@ -1251,15 +1251,14 @@
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/afb-34.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 2",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
@@ -1268,9 +1267,9 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/afb-35.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1282,11 +1281,21 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-37.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/afb-38.jpg",
@@ -1294,11 +1303,65 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-39.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-40.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-41.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-42.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-43.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -1307,7 +1370,7 @@
             "Theme"
           ],
           "_name": "slider2",
-          "_anchor": "slider2-10"
+          "_anchor": "slider2-1u"
         }
       ]
     }
