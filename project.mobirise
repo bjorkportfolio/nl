@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 67,
+    "uniqCompNum": 72,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -39,7 +39,7 @@
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://player.vimeo.com/video/243172021?autoplay=0&loop=0",
+              "src": "https://vimeo.com/243172021",
               "autoplay": "on",
               "loop": "on",
               "active": true
@@ -50,7 +50,7 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-1r"
+          "_anchor": "image1-1z"
         },
         {
           "_styles": {
@@ -216,7 +216,7 @@
             }
           },
           "title": "Blijf rustig en lees de handlijding",
-          "text": "<p>Het ontwerp van een publicatie waarin een duidelijk afgeleide handeling of actie gevisualiseerd wordt. Er wordt door de grafische aanpak en opbouw op een associatieve manier tekst en/ of beeld toegevoegd om de handeling tot een betekenisniveau te brengen. We interpreteren en sturen de inhoud zelf, waardoor de publicatie een persoonlijk karakter krijgt en het puur informatieve overstijgt.&nbsp;</p>",
+          "text": "<p>De opdracht was het ontwerpen van een publicatie waarin een duidelijk afgeleide handeling of actie gevisualiseerd wordt. Er wordt door de grafische aanpak en opbouw op een associatieve manier tekst en/ of beeld toegevoegd om de handeling tot een betekenisniveau te brengen. We interpreteren en sturen de inhoud zelf, waardoor de publicatie een persoonlijk karakter krijgt en het puur informatieve overstijgt.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
