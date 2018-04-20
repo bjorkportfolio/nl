@@ -224,15 +224,15 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9821.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9821-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9822.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9822-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-13.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-13-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9823.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9823-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
