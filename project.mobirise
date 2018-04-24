@@ -182,57 +182,57 @@
             "bgColor": "#000000",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9814.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9814-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-61.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-61-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9815.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9815-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-63.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-63-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9816.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9816-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-65.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-65-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9817.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9817-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-66.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-66-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9820.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9820-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-67.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-67-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9819.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9819-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-68.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-68-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9822.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9822-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-69-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mg-9823.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9823-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-70.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-70-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
