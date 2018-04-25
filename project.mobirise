@@ -231,8 +231,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-70.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-70-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-71.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-71-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -257,29 +257,29 @@
             "bgColor": "#000000",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-1-800x788.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-72.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-72-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-3-800x801.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-73.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-73-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-2-800x822.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-75.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-75-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/afb-45.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/afb-45-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/afb-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-76-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
