@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "4.6.6",
     "favicon": "",
     "noImageResize": "true",
@@ -367,6 +367,81 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-2a"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-86.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-86-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-88.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-88-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-89.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-89-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-90.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-90-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-91.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-91-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-92.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-92-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-94.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-94-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-87-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2d"
         }
       ]
     },
